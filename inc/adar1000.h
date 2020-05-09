@@ -23,7 +23,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
+/* ADAR1000 4-Channel, X Band and Ku Band Beamformer */
 #ifndef LIB_ADAR1000_H_
 #define LIB_ADAR1000_H_
 
