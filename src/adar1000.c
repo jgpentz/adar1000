@@ -23,7 +23,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
+/* ADAR1000 4-Channel, X Band and Ku Band Beamformer */
 // ----------------------------------------------------------------------------
 // Includes
 // ----------------------------------------------------------------------------
